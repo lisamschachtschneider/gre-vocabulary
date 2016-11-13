@@ -2,7 +2,10 @@
 import unirest
 
 words = []
-words = ['testing', 'incredible', 'awesome']
+words = [
+'covetousness',
+'truculence',
+]
 
 for x in words:
 	# print x

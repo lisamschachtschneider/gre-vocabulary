@@ -1,1 +1,388 @@
-{u'definitions': [{u'definition': u'inspiring awe or admiration or wonder', u'partOfSpeech': u'adjective'}], u'word': u'awesome'}{u'definitions': [{u'definition': u'the act of giving students or candidates a test (as by questions) to determine what they know or have learned', u'partOfSpeech': u'noun'}, {u'definition': u'an examination of the characteristics of something', u'partOfSpeech': u'noun'}, {u'definition': u'the act of subjecting to experimental test in order to determine how well something works', u'partOfSpeech': u'noun'}], u'word': u'testing'}{u'definitions': [{u'definition': u'beyond belief or understanding', u'partOfSpeech': u'adjective'}], u'word': u'incredible'}{u'definitions': [{u'definition': u'inspiring awe or admiration or wonder', u'partOfSpeech': u'adjective'}], u'word': u'awesome'}
+{u'definitions': [], u'word': u'marring'}
+
+
+
+
+{u'definitions': [], u'word': u'diluting'}
+
+
+
+
+{u'definitions': [{u'definition': u'bringing on suddenly or abruptly', u'partOfSpeech': u'adjective'}], u'word': u'precipitating'}
+
+
+
+
+{u'definitions': [], u'word': u'infighting'}
+
+
+
+
+{u'definitions': [{u'definition': u'extreme greed for material wealth', u'partOfSpeech': u'noun'}, {u'definition': u'reprehensible acquisitiveness; insatiable desire for wealth (personified as one of the deadly sins)', u'partOfSpeech': u'noun'}, {u'definition': u'an envious eagerness to possess something', u'partOfSpeech': u'noun'}], u'word': u'covetousness'}
+
+
+
+
+{u'definitions': [{u'definition': u'obstreperous and defiant aggressiveness', u'partOfSpeech': u'noun'}], u'word': u'truculence'}
+
+
+
+
+{u'definitions': [{u'definition': u'abused or oppressed by people in power', u'partOfSpeech': u'adjective'}], u'word': u'downtrodden'}
+
+
+
+
+{u'definitions': [{u'definition': u'cough spasmodically', u'partOfSpeech': u'verb'}, {u'definition': u'an old or over-worked horse', u'partOfSpeech': u'noun'}, {u'definition': u'a car driven by a person whose job is to take passengers where they want to go in exchange for money', u'partOfSpeech': u'noun'}, {u'definition': u'cut with a hacking tool', u'partOfSpeech': u'verb'}, {u'definition': u'be able to manage or manage successfully', u'partOfSpeech': u'verb'}, {u'definition': u'significantly cut up a manuscript', u'partOfSpeech': u'verb'}, {u'definition': u'a mediocre and disdained writer', u'partOfSpeech': u'noun'}, {u'definition': u'fix a computer program piecemeal until it works', u'partOfSpeech': u'verb'}, {u'definition': u'one who works hard at boring tasks', u'partOfSpeech': u'noun'}, {u'definition': u'a politician who belongs to a small clique that controls a political party for private rather than public ends', u'partOfSpeech': u'noun'}, {u'definition': u'a horse kept for hire', u'partOfSpeech': u'noun'}, {u'definition': u'a saddle horse used for transportation rather than sport etc.', u'partOfSpeech': u'noun'}, {u'definition': u'a tool (as a hoe or pick or mattock) used for breaking up the surface of the soil', u'partOfSpeech': u'noun'}, {u'definition': u'cut away', u'partOfSpeech': u'verb'}, {u'definition': u'kick on the arms', u'partOfSpeech': u'verb'}, {u'definition': u'kick on the shins', u'partOfSpeech': u'verb'}], u'word': u'hack'}
+
+
+
+
+{u'definitions': [{u'definition': u'original and of a kind not seen before', u'partOfSpeech': u'adjective'}, {u'definition': u'pleasantly new or different', u'partOfSpeech': u'adjective'}, {u'definition': u'an extended fictional work in prose; usually in the form of a story', u'partOfSpeech': u'noun'}, {u'definition': u'a printed and bound book that is an extended work of fiction', u'partOfSpeech': u'noun'}], u'word': u'novel'}
+
+
+
+
+{u'definitions': [{u'definition': u'extremely silly or stupid', u'partOfSpeech': u'adjective'}], u'word': u'inane'}
+
+
+
+
+{u'definitions': [{u'definition': u'revealing lack of perceptiveness or judgment or finesse', u'partOfSpeech': u'adjective'}, {u'definition': u'generally incompetent and ineffectual', u'partOfSpeech': u'adjective'}, {u'definition': u'not elegant or graceful in expression', u'partOfSpeech': u'adjective'}], u'word': u'inept'}
+
+
+
+
+{u'definitions': [{u'definition': u'tendency to believe readily', u'partOfSpeech': u'noun'}], u'word': u'credulity'}
+
+
+
+
+{u'definitions': [{u'definition': u'the property of being ingenious', u'partOfSpeech': u'noun'}, {u'definition': u'the power of creative imagination', u'partOfSpeech': u'noun'}], u'word': u'ingenuity'}
+
+
+
+{u'definitions': [{u'definition': u'decorate or cover lavishly (as with gems)', u'partOfSpeech': u'verb'}, {u'definition': u'assail or attack on all sides:', u'partOfSpeech': u'verb'}, {u'definition': u'annoy continually or chronically', u'partOfSpeech': u'verb'}], u'word': u'beset'}
+
+
+
+
+{u'definitions': [{u'definition': u'a person who tells or invents fables', u'partOfSpeech': u'noun'}], u'word': u'fabulist'}
+
+
+
+{u'definitions': [], u'word': u'depleting'}
+
+
+
+
+{u'definitions': [{u'definition': u'a person who has lied or who lies repeatedly', u'partOfSpeech': u'noun'}], u'word': u'prevaricator'}
+
+
+
+
+{u'definitions': [{u'definition': u'a person skilled in telling anecdotes', u'partOfSpeech': u'noun'}], u'word': u'raconteur'}
+
+
+
+
+{u'definitions': [{u'definition': u'agreeable, conducive to comfort', u'partOfSpeech': u'adjective'}, {u'definition': u'diffusing warmth and friendliness', u'partOfSpeech': u'adjective'}, {u'definition': u'of or relating to the chin or median part of the lower jaw', u'partOfSpeech': u'adjective'}], u'word': u'genial'}
+
+
+
+
+{u'definitions': [{u'definition': u'marked by a narrow focus on or display of learning especially its trivial aspects', u'partOfSpeech': u'adjective'}], u'word': u'pedantic'}
+
+
+
+
+{u'definitions': [{u'definition': u'comical in an odd or whimsical manner', u'partOfSpeech': u'adjective'}], u'word': u'droll'}
+
+
+
+
+{u'definitions': [], u'word': u'evinced'}
+
+
+
+
+{u'definitions': [{u'definition': u'a comic verse of irregular measure', u'partOfSpeech': u'noun'}], u'word': u'doggerel'}
+
+
+
+
+{u'definitions': [{u'definition': u'adroitness and cleverness in reply', u'partOfSpeech': u'noun'}], u'word': u'repartee'}
+
+
+
+
+{u'definitions': [{u'definition': u'characterized by undue haste and lack of thought or deliberation', u'partOfSpeech': u'adjective'}, {u'definition': u'marked by violent force', u'partOfSpeech': u'adjective'}], u'word': u'impetuous'}
+
+
+
+
+{u'definitions': [{u'definition': u'extremely exciting as if by alcohol or a narcotic', u'partOfSpeech': u'adjective'}, {u'definition': u'marked by defiant disregard for danger or consequences', u'partOfSpeech': u'adjective'}, {u'definition': u'marked by the exercise of good judgment or common sense in practical matters', u'partOfSpeech': u'adjective'}], u'word': u'heady'}
+
+
+
+
+{u'definitions': [{u'definition': u'any admirable quality or attribute', u'partOfSpeech': u'noun'}, {u'definition': u'morality with respect to sexual relations', u'partOfSpeech': u'noun'}, {u'definition': u'the quality of doing what is right and avoiding what is wrong', u'partOfSpeech': u'noun'}, {u'definition': u'a particular moral excellence', u'partOfSpeech': u'noun'}], u'word': u'virtue'}
+
+
+
+
+{u'definitions': [{u'definition': u'a strong liking', u'partOfSpeech': u'noun'}], u'word': u'penchant'}
+
+
+
+
+{u'definitions': [{u'definition': u'(anthropology) relatedness or connection by blood or marriage or adoption', u'partOfSpeech': u'noun'}, {u'definition': u'a close connection marked by community of interests or similarity in nature or character', u'partOfSpeech': u'noun'}], u'word': u'kinship'}
+
+
+
+
+{u'definitions': [{u'definition': u'liberality in bestowing gifts; extremely liberal and generous of spirit', u'partOfSpeech': u'noun'}, {u'definition': u'a gift or money given (as for service or out of benevolence); usually given ostentatiously', u'partOfSpeech': u'noun'}], u'word': u'largess'}
+
+
+
+
+{u'definitions': [{u'definition': u'a political system governed by the wealthy people', u'partOfSpeech': u'noun'}], u'word': u'plutocracy'}
+
+
+
+
+{u'definitions': [{u'definition': u'an imaginary monster used to frighten children', u'partOfSpeech': u'noun'}, {u'definition': u'a source of concern', u'partOfSpeech': u'noun'}], u'word': u'bugaboo'}
+
+
+
+
+{u'definitions': [{u'definition': u'a consonant produced by stopping the flow of air at some point and suddenly releasing it', u'partOfSpeech': u'noun'}, {u'definition': u'tending to occlude', u'partOfSpeech': None}], u'word': u'occlusive'}
+
+
+
+
+{u'definitions': [{u'definition': u'represented or appearing as such; pretended', u'partOfSpeech': u'adjective'}, {u'definition': u'appearing as such but not necessarily so', u'partOfSpeech': u'adjective'}], u'word': u'ostensible'}
+
+
+
+
+{u'definitions': [{u'definition': u'impervious to pleas, persuasion, requests, reason', u'partOfSpeech': u'adjective'}], u'word': u'intransigent'}
+
+
+
+
+{u'definitions': [{u'definition': u'the process of extracting moisture', u'partOfSpeech': u'noun'}, {u'definition': u'dryness resulting from the removal of water', u'partOfSpeech': u'noun'}], u'word': u'desiccation'}
+
+
+
+
+{u'definitions': [{u'definition': u'a low or downcast state', u'partOfSpeech': u'noun'}, {u'definition': u'changing to a lower state (a less respected state)', u'partOfSpeech': u'noun'}], u'word': u'degradation'}
+
+
+
+
+{u'definitions': [{u'definition': u'a feeling of deep regret (usually for some misdeed)', u'partOfSpeech': u'noun'}], u'word': u'compunction'}
+
+
+
+
+{u'definitions': [{u'definition': u'straying from the right course or from accepted standards', u'partOfSpeech': u'adjective'}, {u'definition': u'uncontrolled motion that is irregular or unpredictable', u'partOfSpeech': u'adjective'}], u'word': u'errant'}
+
+
+
+
+{u'definitions': [{u'definition': u'eating until excessively full', u'partOfSpeech': u'noun'}, {u'definition': u'the state of being more than full', u'partOfSpeech': u'noun'}, {u'definition': u'supply or feed to surfeit', u'partOfSpeech': u'verb'}, {u'definition': u'the quality of being so overabundant that prices fall', u'partOfSpeech': u'noun'}, {u'definition': u"indulge (one's appetite) to satiety", u'partOfSpeech': u'verb'}], u'word': u'surfeit'}
+
+
+
+
+{u'definitions': [{u'definition': u'a tiny or scarcely detectable amount', u'partOfSpeech': u'noun'}, {u'definition': u'a sparkling glittering particle', u'partOfSpeech': u'noun'}], u'word': u'scintilla'}
+
+
+
+
+{u'definitions': [{u'definition': u'board that provides a flat surface on which artists mix paints and the range of colors used', u'partOfSpeech': u'noun'}, {u'definition': u'the range of colour characteristic of a particular artist or painting or school of art', u'partOfSpeech': u'noun'}, {u'definition': u'a hand tool with a flat blade used by potters for mixing and shaping clay', u'partOfSpeech': u'noun'}, {u'definition': u'a mattress filled with straw or a pad made of quilts; used as a bed', u'partOfSpeech': u'noun'}, {u'definition': u'a portable platform for storing or moving goods that are stacked on it', u'partOfSpeech': u'noun'}], u'word': u'pallet'}
+
+
+
+
+{u'definitions': [{u'definition': u'a very intense and uncontrolled fire', u'partOfSpeech': u'noun'}], u'word': u'conflagration'}
+
+
+
+
+{u'definitions': [{u'definition': u'a criminal who illegally sets fire to property', u'partOfSpeech': u'noun'}, {u'definition': u'a bomb that is designed to start fires; is most effective against flammable targets (such as fuel)', u'partOfSpeech': u'noun'}, {u'definition': u'arousing to action or rebellion', u'partOfSpeech': u'adjective'}, {u'definition': u'capable of catching fire spontaneously or causing fires or burning readily', u'partOfSpeech': u'adjective'}, {u'definition': u'involving deliberate burning of property', u'partOfSpeech': None}], u'word': u'incendiary'}
+
+
+
+
+{u'definitions': [{u'definition': u'violent and needless disturbance', u'partOfSpeech': u'noun'}], u'word': u'havoc'}
+
+
+
+{u'definitions': [{u'definition': u'lacking energy or vitality', u'partOfSpeech': u'adjective'}], u'word': u'enervated'}
+
+
+
+
+{u'definitions': [{u'definition': u'mixed with impurities', u'partOfSpeech': u'adjective'}, {u'definition': u'lowered in value', u'partOfSpeech': u'adjective'}, {u'definition': u'ruined in character or quality', u'partOfSpeech': u'adjective'}], u'word': u'debased'}
+
+
+
+
+{u'definitions': [{u'definition': u'tending to vanish like vapor', u'partOfSpeech': u'adjective'}], u'word': u'evanescent'}
+
+
+
+
+{u'definitions': [{u'definition': u'working or spreading in a hidden and usually injurious way', u'partOfSpeech': u'adjective'}, {u'definition': u'exceedingly harmful', u'partOfSpeech': u'adjective'}], u'word': u'pernicious'}
+
+
+
+
+{u'definitions': [{u'definition': u'lasting a very short time', u'partOfSpeech': u'adjective'}, {u'definition': u'of a mental act; causing effects outside the mind', u'partOfSpeech': u'adjective'}, {u'definition': u'one who stays for only a short time', u'partOfSpeech': u'noun'}, {u'definition': u'(physics) a short-lived oscillation in a system caused by a sudden change of voltage or current or load', u'partOfSpeech': u'noun'}], u'word': u'transient'}
+
+
+
+
+{u'definitions': [{u'definition': u'the time that elapses between a stimulus and the response to it', u'partOfSpeech': u'noun'}, {u'definition': u'(computer science) the time it takes for a specific block of data on a data track to rotate around to the read/write head', u'partOfSpeech': u'noun'}, {u'definition': u'the state of being not yet evident or active', u'partOfSpeech': u'noun'}], u'word': u'latency'}
+
+
+
+
+{u'definitions': [{u'definition': u'the state of being isolated or detached', u'partOfSpeech': u'noun'}], u'word': u'insularity'}
+
+
+
+
+{u'definitions': [{u'definition': u'free from obscurity and easy to understand; the comprehensibility of clear expression', u'partOfSpeech': u'noun'}, {u'definition': u'a lucid state of mind; not confused', u'partOfSpeech': u'noun'}], u'word': u'lucidity'}
+
+
+
+
+{u'definitions': [{u'definition': u'cancel officially', u'partOfSpeech': u'verb'}, {u'definition': u'a contrary command cancelling or reversing a previous command', u'partOfSpeech': u'noun'}], u'word': u'countermand'}
+
+
+
+
+{u'definitions': [{u'definition': u'a negative motivational influence', u'partOfSpeech': u'noun'}], u'word': u'disincentive'}
+
+
+
+
+{u'definitions': [{u'definition': u'characterized by iniquity; wicked because it is believed to be a sin', u'partOfSpeech': u'adjective'}], u'word': u'iniquitous'}
+
+
+
+
+{u'definitions': [{u'definition': u'marked by peace and prosperity', u'partOfSpeech': u'adjective'}, {u'definition': u'a large kingfisher widely distributed in warmer parts of the Old World', u'partOfSpeech': u'noun'}, {u'definition': u'(Greek mythology) a woman who was turned into a kingfisher', u'partOfSpeech': u'noun'}, {u'definition': u'a mythical bird said to breed at the time of the winter solstice in a nest floating on the sea and to have the power of calming the winds and waves', u'partOfSpeech': u'noun'}, {u'definition': u'idyllically calm and peaceful; suggesting happy tranquillity', u'partOfSpeech': u'adjective'}], u'word': u'halcyon'}
+
+
+
+
+{u'definitions': [{u'definition': u'arranged in a sequence of grades or ranks', u'partOfSpeech': u'adjective'}, {u'definition': u'deposited or arranged in horizontal layers', u'partOfSpeech': u'adjective'}, {u'definition': u'(used of society) socially hierarchical', u'partOfSpeech': u'adjective'}], u'word': u'stratified'}
+
+
+
+
+{u'definitions': [{u'definition': u'(historical linguistics) an explanation of the historical origins of a word or phrase', u'partOfSpeech': u'noun'}, {u'definition': u'inherited properties shared with others of your bloodline', u'partOfSpeech': u'noun'}, {u'definition': u'a line of reasoning that shows how a conclusion follows logically from accepted propositions', u'partOfSpeech': u'noun'}, {u'definition': u'(descriptive linguistics) the process whereby new words are formed from existing words or bases by affixation', u'partOfSpeech': u'noun'}, {u'definition': u'drawing of fluid or inflammation away from a diseased part of the body', u'partOfSpeech': u'noun'}, {u'definition': u'drawing off water from its main channel as for irrigation', u'partOfSpeech': u'noun'}, {u'definition': u'the act of deriving something or obtaining something from a source or origin', u'partOfSpeech': u'noun'}, {u'definition': u'the source or origin from which something derives (i.e. comes or issues)', u'partOfSpeech': u'noun'}], u'word': u'derivation'}
+
+
+
+
+{u'definitions': [{u'definition': u'a style that involves indirect ways of expressing things', u'partOfSpeech': u'noun'}, {u'definition': u'an indirect way of expressing something', u'partOfSpeech': u'noun'}], u'word': u'circumlocution'}
+
+
+
+
+{u'definitions': [{u'definition': u'known widely and usually unfavorably', u'partOfSpeech': u'adjective'}], u'word': u'notorious'}
+
+
+
+
+{u'definitions': [{u'definition': u'without warning or announcement', u'partOfSpeech': u'adjective'}], u'word': u'unheralded'}
+
+
+
+
+{u'definitions': [{u'definition': u'not clear to the understanding', u'partOfSpeech': u'adjective'}, {u'definition': u'resembling an oracle in obscurity of thought', u'partOfSpeech': u'adjective'}], u'word': u'enigmatic'}
+
+
+
+
+{u'definitions': [{u'definition': u'where something originated or was nurtured in its early existence', u'partOfSpeech': u'noun'}], u'word': u'provenance'}
+
+
+
+
+{u'definitions': [{u'definition': u'something causing misery or death', u'partOfSpeech': u'noun'}], u'word': u'bane'}
+
+{u'definitions': [{u'definition': u'carefully thought out in advance', u'partOfSpeech': u'adjective'}], u'word': u'calculated'}
+
+
+
+
+{u'definitions': [{u'definition': u'showing little if any change', u'partOfSpeech': u'adjective'}, {u'definition': u'concerned with or producing or caused by static electricity', u'partOfSpeech': u'adjective'}, {u'definition': u'not in physical motion', u'partOfSpeech': u'adjective'}, {u'definition': u'a crackling or hissing noise caused by electrical interference', u'partOfSpeech': u'noun'}, {u'definition': u'angry criticism', u'partOfSpeech': u'noun'}], u'word': u'static'}
+
+
+
+
+{u'definitions': [{u'definition': u'a decrease in rate of change', u'partOfSpeech': u'noun'}, {u'definition': u'(physics) a rate of decrease in velocity', u'partOfSpeech': u'noun'}, {u'definition': u'the act of decelerating; decreasing the speed', u'partOfSpeech': u'noun'}], u'word': u'deceleration'}
+
+
+
+
+{u'definitions': [{u'definition': u'an insufficient quantity or number', u'partOfSpeech': u'noun'}, {u'definition': u'an acute insufficiency', u'partOfSpeech': u'noun'}], u'word': u'dearth'}
+
+
+
+
+{u'definitions': [{u'definition': u'overeat or eat immodestly; make a pig of oneself', u'partOfSpeech': u'verb'}, {u'definition': u'supply with an excess of', u'partOfSpeech': u'verb'}, {u'definition': u'the quality of being so overabundant that prices fall', u'partOfSpeech': u'noun'}], u'word': u'glut'}
+
+
+
+
+{u'definitions': [{u'definition': u'a succession of notes forming a distinctive sequence', u'partOfSpeech': u'noun'}, {u'definition': u'the perception of pleasant arrangements of musical notes', u'partOfSpeech': u'noun'}], u'word': u'melody'}
+
+
+
+
+{u'definitions': [{u'definition': u'(music) the distinctive property of a complex sound (a voice or noise or musical sound)', u'partOfSpeech': u'noun'}], u'word': u'timbre'}
+
+
+
+
+{u'definitions': [{u'definition': u'an abnormal sound of the heart; sometimes a sign of abnormal function of the heart valves', u'partOfSpeech': u'noun'}, {u'definition': u'a complaint uttered in a low and indistinct tone', u'partOfSpeech': u'noun'}, {u'definition': u"make complaining remarks or noises under one's breath", u'partOfSpeech': u'verb'}, {u'definition': u'a low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech', u'partOfSpeech': u'noun'}, {u'definition': u'a schwa that is incidental to the pronunciation of a consonant', u'partOfSpeech': u'noun'}, {u'definition': u'speak softly or indistinctly', u'partOfSpeech': u'verb'}], u'word': u'murmur'}
+
+
+
+
+{u'definitions': [{u'definition': u'make a loud noise', u'partOfSpeech': u'verb'}, {u'definition': u'make a loud resonant noise', u'partOfSpeech': u'verb'}, {u'definition': u'a loud resonant repeating noise', u'partOfSpeech': u'noun'}], u'word': u'clangor'}
+
+
+
+
+{u'definitions': [{u'definition': u'harmful to living things', u'partOfSpeech': u'adjective'}], u'word': u'deleterious'}
+
+
+
+
+{u'definitions': [{u'definition': u'auguring favorable circumstances and good luck', u'partOfSpeech': u'adjective'}], u'word': u'auspicious'}
+
+
+
+
+{u'definitions': [{u'definition': u'lacking in light; not bright or harsh', u'partOfSpeech': u'adjective'}, {u'definition': u'not brilliant or glaring', u'partOfSpeech': u'adjective'}, {u'definition': u'restrained in style or quality', u'partOfSpeech': u'adjective'}, {u'definition': u'in a softened tone', u'partOfSpeech': u'adjective'}, {u'definition': u'quieted and brought under control', u'partOfSpeech': u'adjective'}], u'word': u'subdued'}
+
+
+
+
+{u'definitions': [{u'definition': u'causing or able to cause nausea', u'partOfSpeech': u'adjective'}, {u'definition': u'offensively malodorous', u'partOfSpeech': u'adjective'}], u'word': u'noisome'}
+
+
+
+{u'definitions': [{u'definition': u'belonging to some prior time', u'partOfSpeech': u'adjective'}, {u'definition': u'at a previous time', u'partOfSpeech': u'adverb'}], u'word': u'erstwhile'}
+
+
+
+
